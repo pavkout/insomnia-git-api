@@ -1,0 +1,24 @@
+_id: req_7f22daf1e6af41fdaeec72b845760927
+type: Request
+parentId: wrk_abea9c5d4b3a449ea5d3e6e9cf57110c
+modified: 1707960576966
+created: 1707960562387
+url: https://www.google.com
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/8.6.1
+authentication: {}
+metaSortKey: -1707960562387
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
